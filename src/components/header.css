@@ -1,0 +1,20 @@
+.heading_name{
+    padding-top: 10px;
+  display: flex;
+  justify-content: space-between; /* Aligns the content horizontally with space between */
+  align-items: center; /* Vertically aligns the content to the center */
+  font-size: 28px;
+  padding-bottom: 10px;
+  color: blue;
+  cursor: pointer;
+  line-height:1em;  
+}
+.icon_google{
+    align-self: flex-end!important;
+    padding-left: 5px!important;
+    cursor: pointer;
+}
+.header_section{
+    padding-left: 20px;
+    padding-right: 15px;
+}
